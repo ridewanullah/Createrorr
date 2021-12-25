@@ -1,2 +1,3 @@
+konfigurasi untuk run program
 reservasi_tiket => php artisan serve --port 5000
-reservasi_tiket => php artisan serve --port 6000
+tiket_pesawat => php artisan serve --port 6000
